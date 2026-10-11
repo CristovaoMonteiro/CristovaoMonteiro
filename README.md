@@ -5,7 +5,7 @@
 
 <!-- ═══════════════ TYPING ═══════════════ -->
 <a href="https://github.com/CristovaoMonteiro">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=00E5A0&center=true&vCenter=true&width=520&lines=Growth+Engineer;Product+Engineer+%C3%97+Digital+Marketing;Building+at+IndoorData" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=00E5A0&center=true&vCenter=true&width=560&lines=Growth+Engineer;Computer+Engineering+%C3%97+Digital+Marketing;Copy%2C+design+%26+social+at+IndoorData;Hybrid+recommender+system+live+at+IndoorData" alt="Typing animation" />
 </a>
 
 <br/>
@@ -21,24 +21,24 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## `> about_me`
 
-Hi, I'm **Cris** 👋 I work where **engineering meets growth**. I build products with React and Next.js, and I run the marketing side too: Meta Ads, GA4 and social.
+Hi, I'm **Cris** 👋 I work where **engineering meets growth**. I have a background in both Computer Engineering and Marketing Management, and I use the two together.
 
-- 🏀 At **[IndoorData](https://indoordata.app)** I work on a sports-tech platform for basketball and futsal coaches and clubs
-- 🎓 Finishing my **MSc in Computer Engineering** at Universidade da Beira Interior (UBI), 2026
-- 🧠 My thesis is a **hybrid recommender system** for IndoorData
-- 📈 Background in **Marketing Management** + **Computer Engineering**, and I use both every day
+- 🏀 At **[IndoorData](https://indoordata.app)**, a sports-tech platform for basketball and futsal coaches and clubs, I write the copy, design the visuals and publish on the company's social media
+- 🎓 Completed my **MSc in Computer Engineering** at Universidade da Beira Interior (UBI)
+- 🧠 My thesis was a **hybrid recommender system**, which is now **implemented and running at IndoorData**
+- 📈 I run paid campaigns and track results with **Meta Ads**, **Google Ads** and **Google Analytics**
 
 <details>
 <summary>🇵🇹 <b>Versão em português</b></summary>
 
 <br/>
 
-Olá, sou o **Cris** 👋 Trabalho no ponto onde a **engenharia encontra o growth**. Construo produto com React e Next.js e também faço a parte de marketing: Meta Ads, GA4 e redes sociais.
+Olá, sou o **Cris** 👋 Trabalho no ponto onde a **engenharia encontra o growth**. Tenho formação em Engenharia Informática e em Gestão de Marketing, e uso as duas em conjunto.
 
-- 🏀 Na **[IndoorData](https://indoordata.app)** trabalho numa plataforma de sports-tech para treinadores e clubes de basquetebol e futsal
-- 🎓 A terminar o **Mestrado em Engenharia Informática** na Universidade da Beira Interior (UBI), 2026
-- 🧠 A minha tese é um **sistema de recomendação híbrido** para a IndoorData
-- 📈 Formação em **Gestão de Marketing** + **Engenharia Informática**, e uso as duas todos os dias
+- 🏀 Na **[IndoorData](https://indoordata.app)**, uma plataforma de sports-tech para treinadores e clubes de basquetebol e futsal, faço o copywriting, o design e a publicação nas redes sociais da empresa
+- 🎓 **Concluí o Mestrado em Engenharia Informática** na Universidade da Beira Interior (UBI)
+- 🧠 A minha tese foi um **sistema de recomendação híbrido**, que está atualmente **implementado e em funcionamento na IndoorData**
+- 📈 Giro campanhas pagas e acompanho resultados com **Meta Ads**, **Google Ads** e **Google Analytics**
 
 </details>
 
@@ -49,13 +49,19 @@ Olá, sou o **Cris** 👋 Trabalho no ponto onde a **engenharia encontra o growt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Dev stack" />
-<!-- Para acrescentar mais ícones: i=react,nextjs,ts,js,tailwind,nodejs,python,postgres,supabase,firebase,git,github,vercel,docker,figma,notion,vscode -->
+**Development**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="Languages" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases" />
+
+**Growth & Marketing**
 
 <img src="https://img.shields.io/badge/Meta_Ads-0D1117?style=for-the-badge&logo=meta&logoColor=00E5A0" alt="Meta Ads" />
-<img src="https://img.shields.io/badge/Google_Analytics_4-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00E5A0" alt="GA4" />
+<img src="https://img.shields.io/badge/Google_Ads-0D1117?style=for-the-badge&logo=googleads&logoColor=00E5A0" alt="Google Ads" />
+<img src="https://img.shields.io/badge/Google_Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00E5A0" alt="Google Analytics" />
 
 </div>
 
@@ -68,9 +74,11 @@ Olá, sou o **Cris** 👋 Trabalho no ponto onde a **engenharia encontra o growt
   <tr>
     <td width="50%" valign="top">
       <h3>🏀 <a href="https://indoordata.app">IndoorData</a></h3>
-      <p>Sports-tech platform for basketball and futsal coaches and clubs. I work across product engineering and growth.</p>
-      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5A0" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00E5A0" alt="Next.js" />
+      <p>Sports-tech platform for basketball and futsal coaches and clubs. I handle copywriting, design and social media publishing. My master's thesis, a hybrid recommender system, is now implemented in the platform.</p>
+      <img src="https://img.shields.io/badge/Copywriting-0D1117?style=flat-square&logoColor=00E5A0&color=0D1117&labelColor=0D1117&label=%E2%9C%8D%EF%B8%8F" alt="Copywriting" />
+      <img src="https://img.shields.io/badge/Design-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&label=%F0%9F%8E%A8" alt="Design" />
+      <img src="https://img.shields.io/badge/Social_Media-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&label=%F0%9F%93%B1" alt="Social media" />
+      <img src="https://img.shields.io/badge/Hybrid_Recommender-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&label=%F0%9F%A7%A0" alt="Hybrid recommender" />
     </td>
     <td width="50%" valign="top">
       <h3>🚧 Next project</h3>
