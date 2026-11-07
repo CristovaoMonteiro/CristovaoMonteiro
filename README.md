@@ -27,6 +27,7 @@ Hi, I'm **Cris** 👋 I'm a **Growth Engineer at [IndoorData](https://indoordata
 - 🎓 Completed my **MSc in Computer Engineering** at Universidade da Beira Interior (UBI)
 - 🧠 My thesis was a **hybrid recommender system**, which is now **implemented and running at IndoorData**
 - 📈 I run paid campaigns and track results with **Meta Ads**, **Google Ads** and **Google Analytics**
+- 🧭 Built [Visitor Journey Dashboard](https://visitor-journey.onrender.com), an end-to-end project covering consent-first tracking, customer segmentation and intent scoring
 
 <details>
 <summary>🇵🇹 <b>Versão em português</b></summary>
@@ -39,6 +40,7 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
 - 🎓 **Concluí o Mestrado em Engenharia Informática** na Universidade da Beira Interior (UBI)
 - 🧠 A minha tese foi um **sistema de recomendação híbrido**, que está atualmente **implementado e em funcionamento na IndoorData**
 - 📈 Giro campanhas pagas e acompanho resultados com **Meta Ads**, **Google Ads** e **Google Analytics**
+- 🧭 Criei o [Visitor Journey Dashboard](https://visitor-journey.onrender.com), um projeto completo com tracking baseado em consentimento, segmentação de clientes e intent scoring
 
 </details>
 
@@ -51,7 +53,7 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
 
 **Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express&theme=dark" alt="Languages" />
 
 **Databases**
 
@@ -82,18 +84,17 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
       <img src="https://img.shields.io/badge/Hybrid_Recommender-0D1117?style=flat-square&color=0D1117&labelColor=0D1117&label=%F0%9F%A7%A0" alt="Hybrid recommender" />
     </td>
     <td width="50%" valign="top">
-      <h3>🚧 Next project</h3>
-      <p>Something new is being built. Stay tuned.</p>
-      <img src="https://img.shields.io/badge/status-in_progress-0D1117?style=flat-square&labelColor=0D1117&color=059669" alt="In progress" />
+      <h3>🧭 <a href="https://visitor-journey.onrender.com">Visitor Journey Dashboard</a></h3>
+      <p>A fictional premium menswear store with consent-first event tracking and a dashboard that shows each visitor's journey, customer segment and 0–100 intent score, with a plain-language explanation of every result. GDPR-friendly, synthetic data only.</p>
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=059669" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=059669" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=059669" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Chart.js-0D1117?style=flat-square&logo=chartdotjs&logoColor=059669" alt="Chart.js" />
+      <br/><br/>
+      <a href="https://visitor-journey.onrender.com/dashboard">Live demo</a> · <a href="https://github.com/CristovaoMonteiro/VisitorJourney">Code</a>
     </td>
   </tr>
 </table>
-
-<!-- Quando tiveres repositórios, podes usar cartões automáticos:
-<a href="https://github.com/CristovaoMonteiro/NOME-DO-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristovaoMonteiro&repo=NOME-DO-REPO&bg_color=0D1117&title_color=059669&text_color=C9D1D9&icon_color=059669&border_color=30363D" />
-</a>
--->
 
 <br/>
 
