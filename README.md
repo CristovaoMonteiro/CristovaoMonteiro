@@ -98,43 +98,6 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
 
 <br/>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-## `> github_stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CristovaoMonteiro&show_icons=true&hide_border=false&bg_color=0D1117&title_color=059669&text_color=C9D1D9&icon_color=059669&border_color=30363D&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristovaoMonteiro&layout=compact&bg_color=0D1117&title_color=059669&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=CristovaoMonteiro&background=0D1117&ring=059669&fire=059669&currStreakLabel=059669&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D&border=30363D" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CristovaoMonteiro&bg_color=0D1117&color=059669&line=059669&point=FFFFFF&area=true&area_color=059669&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CristovaoMonteiro&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ SNAKE ═══════════════ -->
-## `> contributions`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristovaoMonteiro/CristovaoMonteiro/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristovaoMonteiro/CristovaoMonteiro/output/github-snake.svg" />
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/CristovaoMonteiro/CristovaoMonteiro/output/github-snake-dark.svg" />
-</picture>
-</div>
-
-<br/>
-
 <!-- ═══════════════ SOCIALS ═══════════════ -->
 ## `> let's_connect`
 
