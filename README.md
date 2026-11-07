@@ -28,7 +28,7 @@ Hi, I'm **Cris** 👋 I'm a **Growth Engineer at [IndoorData](https://indoordata
 - 🧠 My thesis was a **hybrid recommender system**, which is now **implemented and running at IndoorData**
 - 📈 I run paid campaigns and track results with **Meta Ads**, **Google Ads** and **Google Analytics**
 - 🧭 Built [Visitor Journey Dashboard](https://visitor-journey.onrender.com), an end-to-end project covering consent-first tracking, customer segmentation and intent scoring
-- 🛍️ Built [Orlo Recommender](https://orlo-recommender.onrender.com), an explainable product recommender evaluated against simpler baselines on synthetic data
+- 🛍️ Built [Orlo Recommender](https://orlo-recommender.onrender.com), an explainable product recommender tested on synthetic data and real purchases
 
 <details>
 <summary>🇵🇹 <b>Versão em português</b></summary>
@@ -42,7 +42,7 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
 - 🧠 A minha tese foi um **sistema de recomendação híbrido**, que está atualmente **implementado e em funcionamento na IndoorData**
 - 📈 Giro campanhas pagas e acompanho resultados com **Meta Ads**, **Google Ads** e **Google Analytics**
 - 🧭 Criei o [Visitor Journey Dashboard](https://visitor-journey.onrender.com), um projeto completo com tracking baseado em consentimento, segmentação de clientes e intent scoring
-- 🛍️ Criei o [Orlo Recommender](https://orlo-recommender.onrender.com), um recomendador de produtos explicável, avaliado em dados sintéticos contra alternativas mais simples
+- 🛍️ Criei o [Orlo Recommender](https://orlo-recommender.onrender.com), um recomendador de produtos explicável, testado com dados sintéticos e compras reais
 
 </details>
 
@@ -99,7 +99,7 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
   <tr>
     <td colspan="2" valign="top">
       <h3>🛍️ <a href="https://orlo-recommender.onrender.com">Orlo Recommender</a></h3>
-      <p>An explainable product recommender for a fictional menswear store. Every suggestion shows why it appears and how much each model contributed, and a live lab lets you change the weights. Evaluated on unseen synthetic data against simpler baselines, with the limits stated openly.</p>
+      <p>An explainable product recommender for a fictional menswear store. Every suggestion shows why it appears and how much each model contributed, and a live lab lets you change the weights. Tested on unseen synthetic data and on real purchases from a public dataset, with the limits stated openly.</p>
       <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=059669" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=059669" alt="Express" />
       <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=059669" alt="JavaScript" />
