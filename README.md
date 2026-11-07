@@ -91,7 +91,7 @@ Olá, sou o **Cris** 👋 Sou **Growth Engineer na [IndoorData](https://indoorda
       <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=059669" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Chart.js-0D1117?style=flat-square&logo=chartdotjs&logoColor=059669" alt="Chart.js" />
       <br/><br/>
-      <a href="https://visitor-journey.onrender.com/dashboard">Live demo</a> · <a href="https://github.com/CristovaoMonteiro/VisitorJourney">Code</a>
+      <a href="https://visitor-journey.onrender.com">Website</a> · <a href="https://visitor-journey.onrender.com/dashboard">Dashboard</a> · <a href="https://github.com/CristovaoMonteiro/VisitorJourney">Code</a>
     </td>
   </tr>
 </table>
